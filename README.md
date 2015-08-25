@@ -1,1 +1,1 @@
-Final project for URI CSC212, Data Structures. This is a small Java program that displays a colorful image of the Mandelbrot set.
+This is a small Java program that displays a colorful image of the Mandelbrot set, with navigation/zoom around the image and multiple levels of view undo.
